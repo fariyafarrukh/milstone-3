@@ -1,0 +1,73 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 20px;
+    padding:0;
+    background-color: rgba(215, 221, 229, 0.772);
+}
+
+label{
+    text-align: left;
+    color: rgb(48, 116, 225);
+    background-color: rgb(225, 227, 231);
+    font-weight:bold;
+    padding: 0;
+    margin:0;
+
+    }
+form{
+    max-width: 600px;
+    margin: auto;
+    background-color:rgb(232, 216, 216) ;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px ;
+    padding: 20px;
+
+}
+fieldset{
+    border: 2px solid #3498bd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(232, 207, 207);
+    width: 100%;
+    box-sizing: border-box;
+    color:rgb(78, 56, 16);
+}
+legend{
+    text-align: left;
+    background: white;
+    color: rgb(206, 85, 85);
+    padding: 0 10px;
+    width: auto;
+
+
+}
+input,textarea{
+    width: calc(100% - 1px);
+    padding:8px;
+    margin-top:4px;
+    border: 1px solid #3498bd;
+    border-radius: 4px;
+    box-sizing:border-box
+}
+button{
+    display: block;
+    width: 100px;
+    padding: 10px;
+    background-color: aliceblue;
+
+}
+#resume display
+{
+    max-width:600px;
+    margin:auto;
+    padding:20px;
+    border:2px solid rgb(159, 19, 19);
+    border-radius:8px;
+    background-color: rgb(159, 19, 19);;
+    box-shadow: 04px 8px rgba(o,0,0,0.5);
+    
+}
+#resume-display h2{
+    color: #000;
+}
